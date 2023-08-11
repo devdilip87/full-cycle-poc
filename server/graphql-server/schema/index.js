@@ -7,7 +7,7 @@ const schema = buildSchema(`
 
   type Car {
     id: Int
-    make: String
+    brand: String
     model: String
     year: Int
   }

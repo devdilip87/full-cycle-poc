@@ -4,8 +4,8 @@
     "description": "A simple Cars API server and a GraphQL server that fetches data from the API.",
     "main": "index.js",
     "scripts": {
-      "start-api": "node api-server/server.js",
-      "start-graphql": "node graphql-server/server.js"
+      "start-api": "node server.js",
+      "start-graphql": "node server.js"
     },
     "keywords": [
       "api",
